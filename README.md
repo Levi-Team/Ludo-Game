@@ -20,7 +20,7 @@ To run the UDO game locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Levi-Team/udo-game.git
+   gh repo clone Levi-Team/Ludo-Game
    ```
 2. Navigate to the project directory:
    ```bash
